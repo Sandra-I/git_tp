@@ -1,16 +1,5 @@
-STOP les betises!!!
-Tu es gros !
-Sandra is not the queen !
-
-
-En plus
-
-
-Maintenant c'est moi qui commande. Allez vous asseoir. Mathieu s'il te plait va t'asseoir. Mathieu tu saoules. Mathieu casse toi. Sandra ta gueule. 
-
 
 Git checkout permet de changer de branche
 Git checkout -b "..." aussi
 Sauter en tendant les bras aussi
 
-C'est le bordel !!! Putain de merde !
