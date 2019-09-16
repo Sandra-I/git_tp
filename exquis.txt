@@ -36,3 +36,19 @@ Me remettre ? Impossible. La mort de Tom signe la fin de ma vie. Toutefois, pa
 Je confirme au docteur l’amélioration de mon état. Il me laisse seule dans ma tente. Je peux enfin réfléchir aux derniers événements. Tout a mal tourné depuis la mise à nu des ossements.
 Pourtant, tout avait bien commencé. Toutes les autorisations en poche, nous avions transporté sur le site tout le matériel et le personnel nécessaire à ces fouilles. Très vite, les membres de l’expédition avaient installé les quadrillages, avaient mesuré, photographié et cartographié toute la zone.
 Notre modeste site de fouille se dissimule dans le désert Irakien, blotti dans le fond d’une petite vallée, ou plutôt au fond d’une crevasse. Deux immenses pans de roche nous cernent au nord et au sud. Un ruisseau asséché la plus grande partie de l’année abandonne sur ses rives quelques traces, puis continue son chemin vers l’est. Dans cette direction, les falaises diminuent de leurs hauteurs et permettent à la plaine de s’étaler. Plus loin, là où nous porte l’horizon, le désert de
+
+The Linux kernel is an open source software project of fairly large scope. For most of the lifetime of the Linux kernel maintenance (1991–2002), changes to the software were passed around as patches and archived files. In 2002, the Linux kernel project began using a proprietary DVCS called BitKeeper.
+
+In 2005, the relationship between the community that developed the Linux kernel and the commercial company that developed BitKeeper broke down, and the tool’s free-of-charge status was revoked. This prompted the Linux development community (and in particular Linus Torvalds, the creator of Linux) to develop their own tool based on some of the lessons they learned while using BitKeeper. Some of the goals of the new system were as follows:
+
+Speed
+
+Simple design
+
+Strong support for non-linear development (thousands of parallel branches)
+
+Fully distributed
+
+Able to handle large projects like the Linux kernel efficiently (speed and data size)
+
+Since its birth in 2005, Git has evolved and matured to be easy to use and yet retain these initial qualities. It’s amazingly fast, it’s very efficient with large projects, and it has an incredible branching system for non-linear development (See Git Branching).
