@@ -9,4 +9,7 @@ En plus
 Maintenant c'est moi qui commande. Allez vous asseoir. Mathieu s'il te plait va t'asseoir. Mathieu tu saoules. Mathieu casse toi. Sandra ta gueule. 
 
 
-Les passagers du vol A748 sont priés de se foutre un doigt dans le cul et de chanter Margot
+Git checkout permet de changer de branche
+Git checkout -b "..." aussi
+Sauter en tendant les bras aussi
+
