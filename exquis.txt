@@ -9,3 +9,10 @@ Sandra is not the queen !
 
 
 PAS TOUCHE!!!!
+
+Git checkout permet de changer de branche
+Git checkout -b "..." aussi
+Sauter en tendant les bras aussi
+
+C'est le bordel !!! Putain de merde !
+
